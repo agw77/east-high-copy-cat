@@ -1,0 +1,38 @@
+body {
+    background-color: #D71920;
+    
+}
+
+h1 {
+    background-color:#FFFFFF;
+    font: calstoga;
+    text-align:center;
+}
+div.left {
+    float: left;
+    width: 33%;
+    height: 500px;
+    background-color: #D71920;
+}
+div.right {
+    float: left;
+    width: 33%;
+    height: 500px;
+    background-color:#11336A;
+}
+div.center {
+    float: left;
+    width: 34%;
+    height: 500px;
+    background-color:#C0C0C0;
+}
+
+img {
+    width: 100%;
+}
+div.footer {
+    height:100px;
+    width: 100%;
+    color:aqua;
+    background-color: white;
+}
